@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ShaneSkuse/test_aws_website/issues"
   },
-  "homepage": "https://github.com/ShaneSkuse/test_aws_website#readme"
+  "homepage": "https://github.com/ShaneSkuse/test_aws_website#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
