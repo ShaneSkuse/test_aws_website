@@ -1,0 +1,21 @@
+{
+  "name": "test_aws_website",
+  "description": "An aws test website built in node.js",
+  "main": "index.js",
+  "authors": [
+    "Shane.Skuse <shane.skuse@thudmedia.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ShaneSkuse/test_aws_website",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.7.3"
+  }
+}
